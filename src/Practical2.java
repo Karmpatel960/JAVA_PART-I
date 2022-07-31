@@ -26,6 +26,7 @@ public class Practical2 {
         System.out.println("Mobile System Operator Code is "+b);
         System.out.println("MSC is "+c);
         System.out.println("Unique Code is "+d);
+        System.out.println("Prepared By PATEL KARM HITESHKUMAR(21CE095)");
 
     }
 }

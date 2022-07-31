@@ -25,6 +25,8 @@ public class Practical3 {
         else{
             System.out.println("Your Entered First Digit of Both Number " + a + " & " + b + " is not same");
         }
+        System.out.println("Prepared By PATEL KARM HITESHKUMAR(21CE095)");
+
 
     }
     public static boolean digit(int c,int d){

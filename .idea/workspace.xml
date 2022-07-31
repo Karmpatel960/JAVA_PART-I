@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36fae0f-311c-4abc-b366-0eae66772114" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practical1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practical5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practical5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Practical2">
+  <component name="RunManager" selected="Application.Practical5">
     <configuration name="Practical2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical2" />
       <module name="JAVA_PART-I" />
@@ -65,10 +69,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practical2" />
         <item itemvalue="Application.Practical5" />
         <item itemvalue="Application.Practical4" />
         <item itemvalue="Application.Practical3" />
+        <item itemvalue="Application.Practical2" />
       </list>
     </recent_temporary>
   </component>

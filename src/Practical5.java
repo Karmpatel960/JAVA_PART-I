@@ -17,6 +17,7 @@ public class Practical5 {
         int a = in.nextInt();
         int ans = numtriangle(a);
         System.out.println("The Number of Blocks Triangle has "+ans);
+        System.out.println("Prapared by PATEL KARM HITESHKUMAR(21CE095)");
 
     }
 public static int numtriangle(int b) {

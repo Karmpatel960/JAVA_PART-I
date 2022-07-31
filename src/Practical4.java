@@ -37,7 +37,9 @@ public class Practical4 {
 
                 System.out.println("The Result of Student " + i + " is " + c);
 
+
             }
+        System.out.println("Prapared by PATEL KARM HITESHKUMAR(21CE095)");
 
         }
 
