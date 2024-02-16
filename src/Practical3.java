@@ -20,27 +20,30 @@ public class Practical3 {
         int b = in.nextInt();
 
         if(digit(a,b)) {
-            System.out.println("Your Entered First Digit of Both Number " + a + " & " + b + " is same");
+            System.out.println("Your Entered Last Digit of Both Number " + a + " & " + b + " is same");
         }
         else{
-            System.out.println("Your Entered First Digit of Both Number " + a + " & " + b + " is not same");
+            System.out.println("Your Entered Last Digit of Both Number " + a + " & " + b + " is not same");
         }
         System.out.println("Prepared By PATEL KARM HITESHKUMAR(21CE095)");
 
 
     }
     public static boolean digit(int c,int d){
-        int n=0;
-        int m=0;
-        while(c!=0){
-            n=c%10;
-            c/=10;
-        }
-        while(d!=0){
-            m=d%10;
-            d/=10;
-        }
-        return n == m;
-
+//        int n=0;
+//        int m=0;
+//        while(c!=0){
+//            n=c%10;
+//            c/=10;
+//        }
+//        while(d!=0){
+//            m=d%10;
+//            d/=10;
+//        }
+//        return n == m;
+        int n=0,m=0;
+        n=c%10;
+        m=d%10;
+        return n==m;
     }
 }
